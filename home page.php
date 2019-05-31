@@ -53,7 +53,7 @@
       </tr>
       <?php $i++;?>
     <?php endwhile;?>
-    <tr align="center"><td><button type="button" class="btn btn-success" onclick="location.href='start1.php'">transfer</button></td></tr>
+    <tr align="center"><td><button type="button" class="btn btn-success" onclick="location.href='start1.php'">transfer credits</button></td></tr>
       
     </tbody>
   </table>
