@@ -53,8 +53,8 @@
     </tbody>
   </table>
   <form action="final.php" method="post">
-    From:<input type="text" name="value1" placeholder="enter name"></br>
-     To:<input type="text" name="value2" placeholder="enter name"></br>
+    From:<input type="text" name="value1" placeholder="enter name">
+     To:<input type="text" name="value2" placeholder="enter name">
         
         credits:<input type="text" name="value3" placeholder="enter no
  of credits">
