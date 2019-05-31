@@ -1,6 +1,6 @@
 <?php
 
-	$mysqli=new mysqli('localhost','root','abhinay1998','tsf1') or die(mysqli_error($mysqli));
+	$mysqli=new mysqli('nuskkyrsgmn5rw8c.cbetxkdyhwsb.us-east-1.rds.amazonaws.com','ou58xo78xizkryol','o8buhrhb0i6nvmgg','vax8l9rx3ntwu3cs') or die(mysqli_error($mysqli));
 	if(isset($_POST['send']))
 	{
 	$a=$_POST['value1'];
