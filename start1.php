@@ -25,7 +25,7 @@
 </div>
 </nav>
 <div class="container">
-  <h2>choose a user to transfer credits</h2>    
+  <h2>choose 2 users from the list below to transfer the credits</h2>    
   <table class="table ">
     <thead class="thead-light">
       <tr>
@@ -56,7 +56,8 @@
     From:<input type="text" name="value1" placeholder="enter name">
      To:<input type="text" name="value2" placeholder="enter name">
         
-        credits:<input type="text" name="value3" placeholder="enter credits">
+        credits:<input type="text" name="value3" placeholder="enter no
+ of credits">
         <input type="submit" name="send" onclick="location.href='final.php'">
     
   </form>
@@ -65,3 +66,12 @@
 
 </body>
 </html>
+
+
+
+
+
+
+
+
+
